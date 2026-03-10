@@ -1,4 +1,4 @@
-# Hi, I'm Faria 🖋️
+# Hi, I'm Faria ⸜(｡˃ ᵕ ˂ )⸝♡
 
 I am a Business student at **North South University**, Bangladesh, currently exploring the world of programming. I’ve stepped into the tech space with a self-designed curriculum, teaching myself **Python** through the lens of game logic and design.
 
