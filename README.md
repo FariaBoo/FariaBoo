@@ -1,5 +1,5 @@
 # hi, i'm faria ⸜(｡˃ ᵕ ˂ )⸝♡
-BBA · MIS @ North South University, Dhaka
+BBA · Finance @ North South University, Dhaka
 
 self-taught programmer · data nerd in progress · pixel art hobbyist
 
