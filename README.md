@@ -21,7 +21,9 @@ self-taught programmer · data nerd in progress
 
 ### ✨ behind the screen
 🎮 story-driven games with emotionally complex characte
+
 📈 learning investing — FDRs, mutual funds, DSE basics
+
 🌸 flower lover · cat energy · chronically self-aware (⁠ ⁠ꈍ⁠ᴗ⁠ꈍ⁠)
 
 ---
