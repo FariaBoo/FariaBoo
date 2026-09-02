@@ -1,7 +1,7 @@
 # hi, i'm faria ⸜(｡˃ ᵕ ˂ )⸝♡
 BBA · Finance @ North South University, Dhaka
 
-self-taught programmer · data nerd in progress · pixel art hobbyist
+self-taught programmer · data nerd in progress 
 
 ---
 
@@ -10,20 +10,17 @@ self-taught programmer · data nerd in progress · pixel art hobbyist
 
 🤖 **AI/ML engineering** — teaching myself the math (lin. algebra, calc, stats)
 
-🎮 **pixel art & game dev** — Pygame projects, itch.io assets, original characters
-
 🐍 **CS50P** — currently working through Harvard's Python course
 
 ---
 
 ### 🛠️ tech stack
-`Python` `SQL` `Excel` `Pygame` `Power BI` `ibisPaint`
+`Python` `SQL` `Excel` `Power BI` `ibisPaint`
 
 ---
 
 ### ✨ behind the screen
-🎮 story-driven games with emotionally complex characters
-🖼️ designing original characters & pixel sprites
+🎮 story-driven games with emotionally complex characte
 📈 learning investing — FDRs, mutual funds, DSE basics
 🌸 flower lover · cat energy · chronically self-aware (⁠ ⁠ꈍ⁠ᴗ⁠ꈍ⁠)
 
